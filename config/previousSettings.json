@@ -1,0 +1,498 @@
+{
+  "IconPickerIconsPerRow": 15,
+  "IconPickerIconSize": 20,
+  "UseNewMemoryBackend": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "Profiles": {
+    "Value": "global"
+  },
+  "Theme": {
+    "Value": "Default"
+  },
+  "MainMenuKeyToggle": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "F12",
+      "Win": false
+    }
+  },
+  "PauseAllPluginsHotkey": {
+    "ValueV2": {
+      "ControllerKey": "None",
+      "ControllerModifierKey": "None",
+      "Key": "None",
+      "Win": false
+    }
+  },
+  "PluginSettings": {
+    "MultiThreadLoadPlugins": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "AvoidLockingDllFiles": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "PreferSourcePlugins": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "BuildAllPluginsAtOnce_v2": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "CachePluginCompilationResults": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "IgnoreReferenceChangesForCompilationCache": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "FolderSettings": {
+      "PluginFolders": [],
+      "PluginFolderMapping": {}
+    },
+    "NotificationSettings": {
+      "Show": {
+        "Value": false,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "ShowWhenNoNotifications": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "MoveWhenSettingsOpen": {
+        "Value": true,
+        "AttachedHotkey": {
+          "ValueV2": {
+            "ControllerKey": "None",
+            "ControllerModifierKey": "None",
+            "Key": "None",
+            "Win": false
+          }
+        }
+      },
+      "MinMapEventLevel": {
+        "Value": "Information"
+      },
+      "MinEventLevel": {
+        "Value": "Information"
+      },
+      "VerboseNotificationColor": "808080ff",
+      "DebugNotificationColor": "ffffffff",
+      "InfoNotificationColor": "ffffffff",
+      "WarningNotificationColor": "ffff00ff",
+      "ErrorNotificationColor": "ff0000ff",
+      "FatalNotificationColor": "ff0000ff",
+      "CategoriesSettings": {
+        "Plugins": {}
+      }
+    }
+  },
+  "PerformanceSettings": {
+    "CoroutineMultiThreading": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "ParseEntitiesInMultiThread": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "Threads": {
+      "Value": 2
+    },
+    "TargetFps": {
+      "Value": 60
+    },
+    "TargetParallelCoroutineFps": {
+      "Value": 60
+    },
+    "EntitiesFps": {
+      "Value": 60
+    },
+    "ParseServerEntities_v2": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "LimitDrawPlot": {
+      "Value": 0.2
+    },
+    "MaxGroundItemLabels": {
+      "Value": 5000
+    },
+    "MaxEntities": {
+      "Value": 10000
+    }
+  },
+  "AttachToMainProcessWindow": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "TryLoadingStatDescriptionsFromGameData": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "RepairInvalidGameAddress": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "CacheEntitiesBetweenZones": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "GlobalEntityCacheExpirationMinutes": {
+    "Value": 20.0
+  },
+  "UseOldStyleListNode": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "IgnoreHotkeysOnFocusedInput": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "EnableVSync": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "FontSettings": {
+    "Fonts": {
+      "Content": [
+        {
+          "Font": {
+            "Value": "unifont"
+          },
+          "Sizes": {
+            "Content": [
+              {
+                "Value": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "MainFont": {
+      "Value": "unifont:16"
+    },
+    "FontGlyphRange": {
+      "Value": "Cyrillic"
+    },
+    "ApplySelectedFontGlobally": {
+      "Value": true,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  },
+  "MouseCursorScale": {
+    "Value": 1.0
+  },
+  "Volume": {
+    "Value": 100
+  },
+  "ShowDebugWindow": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ShowLogWindow": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "LoggingSettings": {
+    "MinimumLogLevel": {
+      "Value": "Verbose"
+    },
+    "TimestampColor": "808080ff",
+    "VerboseLogColor": "808080ff",
+    "DebugLogColor": "ffffffff",
+    "InfoLogColor": "ffffffff",
+    "WarningLogColor": "ffff00ff",
+    "ErrorLogColor": "ff0000ff",
+    "DefaultVerboseLogDisplayTime": {
+      "Value": 1.0
+    },
+    "DefaultDebugLogDisplayTime": {
+      "Value": 1.0
+    },
+    "DefaultInfoLogDisplayTime": {
+      "Value": 1.0
+    },
+    "DefaultWarningLogDisplayTime": {
+      "Value": 5.0
+    },
+    "DefaultErrorLogDisplayTime": {
+      "Value": 5.0
+    }
+  },
+  "DebugSettings": {
+    "ShowDemoWindow": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "HideAllDebugging": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DebugFileLoads": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "DebugDatLoads": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    },
+    "BypassLoginRequirement": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  },
+  "Enable": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "ForceForeground": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "FileReloadPeriod": {
+    "Value": 1000
+  },
+  "DisableBlackBarAdjustment": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    }
+  },
+  "SnapshotSettings": {
+    "TakeSnapshotHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None",
+        "Win": false
+      }
+    },
+    "FreezeProcessDuringSnapshot": {
+      "Value": false,
+      "AttachedHotkey": {
+        "ValueV2": {
+          "ControllerKey": "None",
+          "ControllerModifierKey": "None",
+          "Key": "None",
+          "Win": false
+        }
+      }
+    }
+  }
+}
